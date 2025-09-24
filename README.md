@@ -20,7 +20,7 @@
 - 📫 How to reach me **jamesnderitu269@gmail.com**
 
 
-- ⚡ Fun fact **want to derive value from data? I do that seamlessly using Actuarial science concepts, Excel, Python, Power BI & SQL.
+- ⚡ Fun fact, **want to derive value from data? gotcha🙂 I do that seamlessly using Actuarial science concepts, Excel, Python, Power BI & SQL.**
 - python here does not refer to animal🐍 or maybe an insect😂**
 
 <h3 align="left">Connect with me:</h3>
