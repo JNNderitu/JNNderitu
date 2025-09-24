@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm James Nderitu</h1>
-<h3 align="center">Student Actuary, Data analyst. Tools - excel, SQL, python, Power BI.</h3>
+<h1 align="center">Hi 👋, I'm James 😊 </h1>
+<h3 align="left">Student Actuary, Data analyst. Tools - excel, SQL, python, Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnderitu&label=Profile%20views&color=0e75b6&style=flat" alt="jnnderitu" /> </p>
 
-- 🌱 I’m currently learning **Data Visualization with tableau.**
+- I do data analysis and visualization using tools like :
+  * Advanced excel. [ basic analysis, power query, functions like vlookup, pivot tables for visualizations]
+  * SQL. [ Basic Queries, creating db's & tables , set operators, window functions, CTE's, Subqueries, Indexes, Views etc ]
+  * Python. [ basic operations, libraries- pandas, numpy, matplotlib, seaborn ]
+  * Power BI. [ Power Query- EDA and data cleaning, DAX, Measures for advanced analysis and visualizing ]
+  * Other skillsets:
+    - Exploratory Data Analysis.
+    - Critical thinking.
+    - 🤔
+  
+- 🌱 I’m currently learning **Data Visualization with tableau and ML.**
 
 - 💬 Ask me about **SQL, Excel, Python, Power BI or Statistics (descriptive/inferential).**
 
 - 📫 How to reach me **jamesnderitu269@gmail.com**
 
 
-- ⚡ Fun fact **want to derive value from you data? I do that seamlessly -Actuarial science concepts, excel, python, power bi, SQL. (python here does not refer to animal🐍 or insect😂)**
+- ⚡ Fun fact **want to derive value from data? I do that seamlessly using Actuarial science concepts, Excel, Python, Power BI & SQL.
+- python here does not refer to animal🐍 or maybe an insect😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
