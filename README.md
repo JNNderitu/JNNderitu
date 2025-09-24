@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning **Data Visualization with tableau and ML.**
 
-- 💬 Ask me about **SQL, Excel, Python, Power BI or Statistics (descriptive/inferential).**
+- 💬 Ask me about  **SQL, Excel, Python, Power BI or Statistics (descriptive/inferential).**
 
 - 📫 How to reach me **jamesnderitu269@gmail.com**
 
