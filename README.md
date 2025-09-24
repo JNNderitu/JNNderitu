@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jamesnderitu269@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gMptUCrk6rgfS37HrStTyB0Tc6RTKGZA/view?usp=sharing](https://drive.google.com/file/d/1gMptUCrk6rgfS37HrStTyB0Tc6RTKGZA/view?usp=sharing)
 
 - ⚡ Fun fact **want to derive value from you data? I do that seamlessly -Actuarial science concepts, excel, python, power bi, SQL. (python here does not refer to animal🐍 or insect😂)**
 
