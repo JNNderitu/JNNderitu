@@ -14,6 +14,8 @@
     - 🤔
   
 - 🌱 I’m currently learning **Data Visualization with tableau and ML.**
+- Simulation Projects:
+- *_<img width="1038" height="466" alt="Image" src="https://github.com/user-attachments/assets/c7677abc-078e-4565-aa32-bf929eb693c4" />_*
 
 - 💬 Ask me about  **SQL, Excel, Python, Power BI or Statistics (descriptive/inferential).**
 
