@@ -19,7 +19,7 @@
 
 - 💬 Ask me about  **SQL, Excel, Python, Power BI or Statistics.**
 
-- 📫 How to reach me *jamesnderitu269@gmail.com* or Linkedln: *http://www.linkedin.com/in/james-nderitu-752b8b2b3*
+- 📫 How to reach me Email me using *jamesnderitu269@gmail.com* or Linkedln: *http://www.linkedin.com/in/james-nderitu-752b8b2b3*
 
 
 - ⚡ Fun fact, **Want to derive value from data? gotcha🙂 I do that seamlessly using Actuarial science concepts, Excel, Python, Power BI & SQL.**
