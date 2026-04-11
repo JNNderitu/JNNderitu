@@ -26,10 +26,7 @@ I do data analysis and visualization using tools such as:
 - 📫 How to reach me Email me using *jamesnderitu269@gmail.com* or Linkedln: *http://www.linkedin.com/in/james-nderitu-752b8b2b3*
 
 
-- ⚡ Fun fact, **Want your data demistified and visualizations created to make data-driven decisions?🙂 I do that seamlessly using Actuarial science concepts and data tools**
-
-- Simulation Projects:
-- *_<img width="1038" height="466" alt="Image" src="https://github.com/user-attachments/assets/c7677abc-078e-4565-aa32-bf929eb693c4" />_*
+- ⚡ Fun fact, *_Want your data demistified and visualizations created to make data-driven decisions?🙂 I do that seamlessly using Actuarial science concepts and data tools._*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
