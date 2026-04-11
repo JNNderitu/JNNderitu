@@ -1,26 +1,32 @@
 <h1 align="center">Hi 👋, I'm James 😊 </h1>
-<h3 align="left">Actuarial Science Graduate, TASK (The Actuarial Society of Kenya) Member, Data analyst. Tools - Excel, SQL, Python, Power BI.</h3>
+<h3 align="left">An Actuarial Science Graduate, TASK (The Actuarial Society of Kenya) Member, Data analyst. Tools - Excel, SQL, Python, Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnderitu&label=Profile%20views&color=0e75b6&style=flat" alt="jnnderitu" /> </p>
 
-- I do data analysis and visualization using tools like :
-  * Advanced excel. [ basic analysis, power query, functions like vlookup, pivot tables for visualizations]
+I do data analysis and visualization using tools such as:
+  * Advanced excel. [from basic analysis, power query, to advanced functions like vlookup, and data visualizations]
   * SQL. [ Basic Queries, creating db's & tables , set operators, window functions, CTE's, Subqueries, Indexes, Views etc ]
-  * Python. [ basic operations, libraries- pandas, numpy, matplotlib, seaborn ]
+  * Python. [ basic to advanced operations, libraries- pandas, numpy, matplotlib, seaborn, sklearn]
   * Power BI. [ Power Query- EDA and data cleaning, DAX, Measures for advanced analysis and visualizing ]
-  * Other skillsets:
-    - Exploratory Data Analysis.
-    - Critical thinking.
-    - 🤔
+    
+ Other skillsets:
+ 
+    - _Claims processing._
+    - _Reconciliation._
+    - _Data entry._
+    - _Exploratory Data Analysis._
+    - _Attention to detail._
+    - _Critical thinking._
+    - Basic predictive modelling (ml models like linear reg, logistic and KNN)
   
-- 🌱 I’m currently learning **Machine Learning Models.**
+- 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
-- 💬 Ask me about  **SQL, Excel, Python, Power BI or Statistics.**
+- 💬 Ask me about  **data analysis, visualization with excel / power BI or predictive modelling.**
 
 - 📫 How to reach me Email me using *jamesnderitu269@gmail.com* or Linkedln: *http://www.linkedin.com/in/james-nderitu-752b8b2b3*
 
 
-- ⚡ Fun fact, **Want to derive value from data? i got you🙂 I do that seamlessly using Actuarial science concepts, Excel, Python, Power BI & SQL.**
+- ⚡ Fun fact, **Want your data demistified and visualizations created to make data-driven decisions?🙂 I do that seamlessly using Actuarial science concepts and data tools**
 
 - Simulation Projects:
 - *_<img width="1038" height="466" alt="Image" src="https://github.com/user-attachments/assets/c7677abc-078e-4565-aa32-bf929eb693c4" />_*
