@@ -11,13 +11,14 @@
     
  ## Other skills:
  
-    - Claims processing.
-    - Reconciliation.
-    - Data entry.
-    - Exploratory Data Analysis.
-    - Attention to detail.
-    - Critical thinking.
-    - Basic predictive modelling (ml models like linear reg, logistic and KNN)
+   - Claims processing.
+   - Reconciliation.
+   - Data entry.
+   - Exploratory Data Analysis.
+   - Attention to detail.
+   - Critical thinking.
+   - Basic predictive modelling (ml models like linear reg, logistic and KNN)
+     
 ### 📊 Projects by Tools
 
 **Excel**
@@ -33,8 +34,8 @@
 - 🔹 [Sales Analysis]([link](https://github.com/JNNderitu/Sales-Analysis?tab=readme-ov-file)) - Description here
 
  
-  
-##- 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
+ ## 
+ - **🌱 I’m currently learning SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
 - 💬 Ask me about  **data analysis, visualization with excel / power BI or predictive modelling.**
 
