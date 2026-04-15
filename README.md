@@ -34,7 +34,7 @@
 
  
   
-- 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
+##- 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
 - 💬 Ask me about  **data analysis, visualization with excel / power BI or predictive modelling.**
 
