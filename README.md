@@ -30,7 +30,7 @@
 - 🔹 [Project Name](link) - Description here
 
 **Power BI**
-- 🔹 [Project Name](link) - Description here
+- 🔹 [Sales Analysis]([link](https://github.com/JNNderitu/Sales-Analysis?tab=readme-ov-file)) - Description here
   
 - 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
