@@ -31,6 +31,8 @@
 
 **Power BI**
 - 🔹 [Sales Analysis]([link](https://github.com/JNNderitu/Sales-Analysis?tab=readme-ov-file)) - Description here
+
+ 
   
 - 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
