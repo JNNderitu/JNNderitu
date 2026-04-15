@@ -1,23 +1,36 @@
 <h1 align="center">Hi 👋, I'm James 😊 </h1>
-<h3 align="left">An Actuarial Science Graduate, TASK (The Actuarial Society of Kenya) Member, Data analyst. Tools - Excel, SQL, Python, Power BI.</h3>
+<h3 align="left">An Actuarial Science Graduate, TASK member(The Actuarial Society of Kenya), Data analyst and a student member of Society of Actuaries(SOA). </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnnderitu&label=Profile%20views&color=0e75b6&style=flat" alt="jnnderitu" /> </p>
-
-I do data analysis and visualization using tools such as:
-  * Advanced excel. [from basic analysis, power query, to advanced functions like vlookup, and data visualizations]
-  * SQL. [ Basic Queries, creating db's & tables , set operators, window functions, CTE's, Subqueries, Indexes, Views etc ]
-  * Python. [ basic to advanced operations, libraries- pandas, numpy, matplotlib, seaborn, sklearn]
-  * Power BI. [ Power Query- EDA and data cleaning, DAX, Measures for advanced analysis and visualizing ]
-    
- Other skillsets:
  
-    - _Claims processing._
-    - _Reconciliation._
-    - _Data entry._
-    - _Exploratory Data Analysis._
-    - _Attention to detail._
-    - _Critical thinking._
+## **I do data analysis and visualization using tools such as:**
+  * Advanced excel. _From basic analysis, power query, to advanced functions like vlookup, and data visualizations._
+  * SQL. _Basic Queries, creating db's & tables , set operators, window functions, CTE's, Subqueries, Indexes, Views etc._
+  * Python. _Basic to advanced operations, libraries- pandas, numpy, matplotlib, seaborn, sklearn._
+  * Power BI. _Power Query- EDA and data cleaning, DAX and  Measures for advanced analysis and visualizations._
+    
+ ## Other skills:
+ 
+    - Claims processing.
+    - Reconciliation.
+    - Data entry.
+    - Exploratory Data Analysis.
+    - Attention to detail.
+    - Critical thinking.
     - Basic predictive modelling (ml models like linear reg, logistic and KNN)
+### 📊 Projects by Tools
+
+**Excel**
+- 🔹 [Project Name](link) - Description here
+
+**SQL**
+- 🔹 [Project Name](link) - Description here
+
+**Python**
+- 🔹 [Project Name](link) - Description here
+
+**Power BI**
+- 🔹 [Project Name](link) - Description here
   
 - 🌱 I’m currently learning **SOA Exam P (Foundation actuarial exam) and Machine Learning Models.**
 
