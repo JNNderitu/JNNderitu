@@ -31,7 +31,7 @@
 - 🔹 [Project Name](link) - Description here
 
 **Power BI**
-- 🔹 [Sales Analysis]([link](https://github.com/JNNderitu/Sales-Analysis?tab=readme-ov-file)) - Description here
+- 🔹 [Sales Analysis](https://github.com/JNNderitu/Sales-Analysis) - Description here
 
  
  ## 
