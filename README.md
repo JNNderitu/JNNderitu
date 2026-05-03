@@ -22,7 +22,7 @@
 ### 📊 Projects by Tools
 
 **Excel**
-- 🔹 [Project Name](link) - Description here
+- 🔹 [City Hospital Operations Analysis](https://github.com/JNNderitu/City-Hospital-Operations-Analysis) - This project analyzes City General Hospital's operational data to diagnose systemic failures in patient flow, staff allocation, and supply chain management. It transforms raw data into actionable insights to resolve bottlenecks, reduce burnout, and stop financial losses.
 
 **SQL**
 - 🔹 [Project Name](link) - Description here
@@ -46,8 +46,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/james nderitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james nderitu" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/james-nderitu-752b8b2b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james nderitu" height="30" width="40" /></a>
+ 
 <a href="https://kaggle.com/jamesleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jamesleon" height="30" width="40" /></a>
+
 <a href="https://fb.com/jemoh leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemoh leon" height="30" width="40" /></a>
 </p>
 
