@@ -31,7 +31,7 @@
 - 🔹 [Project Name](link) - Description here
 
 **Power BI**
-- 🔹 [Sales Analysis](https://github.com/JNNderitu/Sales-Analysis) - Description here
+- 🔹 [Sales Analysis](https://github.com/JNNderitu/Sales-Analysis) - Analyzing fictional data from an online learning platform offering courses in various categories. I’ll track course sales, instructor performance, learner engagement, and payment methods across months
 
  
  ## 
